@@ -1,0 +1,11 @@
+{
+  "name": "forge-dist",
+  "version": "1.0.0",
+  "description": "Forge browser dist",
+  "main": "src/forge.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
